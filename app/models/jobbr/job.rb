@@ -1,5 +1,6 @@
 module Jobbr
   require "ohm"
+  require 'ohm/contrib'
   class Job < ::Ohm::Model
 
     MAX_RUN_PER_JOB = 500
