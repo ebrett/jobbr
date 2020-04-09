@@ -20,7 +20,7 @@ gem 'kaminari'
 
 # Backend
 gem 'redis'
-gem 'ohm', '2.0.1'
+gem 'ohm'
 gem 'ohm-contrib'
 gem 'sidekiq'
 gem 'whenever'
