@@ -1,4 +1,4 @@
-= Jobbr
+= Jobbr (This fork works with rails 6)
 
 Jobbr is a Rails engine for supervising your delayed jobs and scheduled jobs (think Cron).
 Delayed jobs will run using sidekiq.
