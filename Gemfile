@@ -6,7 +6,6 @@ gem 'rails', '>= 4.0.0'
 
 # UI
 gem 'jquery-rails'
-gem 'haml'
 gem 'chronic_duration'
 gem 'sassc'
 gem 'sass-rails'
@@ -17,7 +16,7 @@ gem 'bootstrap-sass'
 gem 'font-awesome-sassc'
 gem 'turbolinks'
 gem 'kaminari'
-
+gem 'hamlit'
 # Backend
 gem 'redis'
 gem 'ohm'

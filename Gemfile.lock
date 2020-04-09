@@ -129,6 +129,10 @@ GEM
     haml (5.1.2)
       temple (>= 0.8.0)
       tilt
+    hamlit (2.11.0)
+      temple (>= 0.8.2)
+      thor
+      tilt
     hiredis (0.6.3)
     i18n (1.8.2)
       concurrent-ruby (~> 1.0)
@@ -321,7 +325,7 @@ DEPENDENCIES
   coffee-rails
   font-awesome-sassc
   generator_spec
-  haml
+  hamlit
   jobbr!
   jquery-rails
   kaminari
